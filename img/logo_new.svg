@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="401px" height="340px" viewBox="0 0 401 340" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Artboard-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(0.000000, -17.000000)">
+            <rect id="Rectangle-2" fill="#FFFFFF" x="0" y="17" width="401" height="340" rx="8"></rect>
+            <text id="Cindy" font-family="HerrVonMuellerhoff-Regular, Herr Von Muellerhoff" font-size="190" font-weight="normal" fill="#010101">
+                <tspan x="18" y="176">Cindy</tspan>
+            </text>
+            <text id="Liu" font-family="HerrVonMuellerhoff-Regular, Herr Von Muellerhoff" font-size="190" font-weight="normal" fill="#000000">
+                <tspan x="165" y="296">Liu</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
