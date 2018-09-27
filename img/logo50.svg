@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
-    <title>Artboard</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.762723214">
-        <g id="Group" transform="translate(4.250000, -7.000000)">
-            <rect id="Rectangle-3" stroke="#B8B4B4" stroke-width="1.25" x="7.875" y="10.375" width="31.5" height="39.5" rx="2"></rect>
-            <text id="C" font-family="Arial-Black, Arial Black" font-size="47.5" font-weight="700" fill="#101010">
-                <tspan x="0" y="52">C</tspan>
-            </text>
-            <path d="M19.625,45.25 C23.5600288,45.25 26.75,40.8288119 26.75,35.375 C26.75,29.9211881 23.5600288,25.5 19.625,25.5 C15.6899712,25.5 12.5,27.3364843 12.5,35.375 C12.5,43.4135157 15.6899712,45.25 19.625,45.25 Z" id="Oval" fill="#FFFFFF"></path>
-            <polygon id="Rectangle" fill="#FFFFFF" points="7.25 13.5541761 12.75 12 12.75 50.5 7.25 50.5"></polygon>
-            <rect id="Rectangle-2" fill="#FFFFFF" x="7.25" y="44.75" width="28.5" height="5.75"></rect>
-        </g>
-    </g>
-</svg>
+<svg width="50" height="50" xmlns="http://www.w3.org/2000/svg"><g transform="translate(4.25 -7)" fill="none" fill-rule="evenodd" opacity=".763"><rect stroke="#B8B4B4" stroke-width="1.25" x="7.875" y="10.375" width="31.5" height="39.5" rx="2"/><text font-family="Arial-Black, Arial Black" font-size="47.5" font-weight="700" fill="#101010"><tspan x="0" y="52">C</tspan></text><path d="M19.625 45.25c3.935 0 7.125-4.421 7.125-9.875S23.56 25.5 19.625 25.5 12.5 27.336 12.5 35.375s3.19 9.875 7.125 9.875z" fill="#FFF"/><path fill="#FFF" d="M7.25 13.554L12.75 12v38.5h-5.5z"/><path fill="#FFF" d="M7.25 44.75h28.5v5.75H7.25z"/></g></svg>
